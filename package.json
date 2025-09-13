@@ -1,0 +1,31 @@
+{
+  "name": "book-store-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarBakr-93/Book-Store-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OmarBakr-93/Book-Store-API/issues"
+  },
+  "homepage": "https://github.com/OmarBakr-93/Book-Store-API#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "i": "^0.3.7",
+    "joi": "^18.0.1",
+    "mongoose": "^8.17.1",
+    "nodemon": "^3.1.10",
+    "npm": "^11.6.0"
+  }
+}
